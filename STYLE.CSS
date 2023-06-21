@@ -41,3 +41,11 @@ body{font-family: 'Amatic SC', cursive;
 .site-777-imagem{
     widht: 120px;
 }
+.rodape{
+    background-color: black;
+    text-align: center;
+    }
+    .rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+}
